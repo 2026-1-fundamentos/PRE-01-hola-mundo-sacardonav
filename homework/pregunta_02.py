@@ -16,6 +16,7 @@ def pregunta_02():
 
     return "Hello cruel world!"
     
+    
 
 
 if __name__ == "__main__":
